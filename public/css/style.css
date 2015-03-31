@@ -20,6 +20,13 @@
   transform: translateZ(-1px) scale(2);
 }
 
+.parallax__layer--base2 {
+  transform: translateZ(0) scale(1);
+}
+.parallax__layer--back2 {
+  transform: translateZ(-1px) scale(2);
+}
+
 .parallax__group {
   position: relative;
   height: 100vh;
