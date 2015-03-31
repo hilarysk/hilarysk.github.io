@@ -15,20 +15,20 @@
 }
 .parallax__layer--base {
   transform: translateZ(0) scale(1);
-  height: 300px;
 }
 .parallax__layer--back {
   transform: translateZ(-1px) scale(2);
-  height: 300px;
 }
 
 .parallax__layer--base2 {
   transform: translateZ(0) scale(1);
-  height: 300px;
 }
 
 .parallax__layer--back2 {
   transform: translateZ(-1px) scale(2);
+}
+
+.height_constraint {
   height: 300px;
 }
 
