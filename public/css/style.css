@@ -26,6 +26,18 @@
   transform-style: preserve-3d;
 }
 
-h1 {
-  color: red;
+.parallax__layer--back {
+  background-color: #FFFFFF;
+}
+
+.parallax__layer--base {
+  background-color: #D00000;
+}
+
+.parallax__layer--back {
+  background-color: #66CCFF;
+}
+
+.parallax__layer--base {
+  background-color: #CC0099;
 }
