@@ -14,7 +14,7 @@
   transform-origin-x: 100%;
 }
 .parallax__layer--base {
-  transform: translateZ(-5) scale(6);
+  transform: translateZ(0) scale(1);
 }
 .parallax__layer--back {
   transform: translateZ(-2px) scale(3);
