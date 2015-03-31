@@ -14,14 +14,14 @@
   transform-origin-x: 100%;
 }
 .parallax__layer--base {
-  transform: translateZ(0) scale(1);
+  transform: translateZ(0) scale(1); /* needs to be big */
 }
 .parallax__layer--back {
   transform: translateZ(-1px) scale(2);
 }
 
 .parallax__layer--base2 {
-  transform: translateZ(0) scale(1);
+  transform: translateZ(0) scale(1); /* needs to be big */
 }
 
 .parallax__layer--back2 {
@@ -44,7 +44,7 @@
 }
 
 .parallax__layer--back2 {
-  background-image: url("http://upload.wikimedia.org/wikipedia/commons/1/1c/A_Daisy_flower.jpg");
+  background: #FFFF00;
 }
 
 .parallax__layer--base2 {
