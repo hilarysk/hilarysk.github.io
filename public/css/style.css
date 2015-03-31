@@ -14,18 +14,18 @@
   transform-origin-x: 100%;
 }
 .parallax__layer--base {
-  transform: translateZ(-9) scale(10);
+  transform: translateZ(0) scale(1);
 }
 .parallax__layer--back {
-  transform: translateZ(-2px) scale(3);
+  transform: translateZ(-1px) scale(2);
 }
 
 .parallax__layer--base2 {
-  transform: translateZ(-9) scale(10);
+  transform: translateZ(0) scale(1);
 }
 
 .parallax__layer--back2 {
-  transform: translateZ(-10px) scale(11); /* was -1, 2*/
+  transform: translateZ(-2px) scale(3); /* was -1, 2*/
 }
 
 
