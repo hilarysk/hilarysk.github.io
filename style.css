@@ -336,6 +336,14 @@ a:hover {
 
 }
 
+.videotabs {
+  margin-top: 545px;
+}
+
+.videoslide {
+  margin-top: 600px;
+}
+
 .video {
   width: 640px;
   margin: 0 auto;
