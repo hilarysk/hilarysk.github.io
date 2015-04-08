@@ -326,6 +326,11 @@ a:hover {
   margin-bottom: 20px;
   width: 100%;
 }
+
+.video {
+  width: 600px;
+  height: 450px;
+}
                                                                 /* PARALLAX GENERAL */
 
 .parallax {
@@ -732,6 +737,12 @@ a:hover {
   .footer {
     padding-top: 320px;
   }
+  
+  .video {
+    width: 420px;
+    height: 315px;
+  }
+    
 }
 
 
