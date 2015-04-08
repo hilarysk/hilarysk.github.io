@@ -331,6 +331,10 @@ a:hover {
   width: 600px;
   height: 450px;
 }
+
+.videocontainter {
+  width: 100%;
+}
                                                                 /* PARALLAX GENERAL */
 
 .parallax {
