@@ -79,7 +79,7 @@ body {
 .textcontainer {
   width: 561px;
   height: 225px;
-  padding-top: 110px;
+  padding-top: 90px;
   margin: 0 auto;
   font-size: 3.25vh;
 }
@@ -91,13 +91,13 @@ body {
 .textright {
   display: inline-block;
   float: left;
-  width: 174px;
-  margin-left: 100px;
+  width: 167px;
+  margin-left: 67px;
 }
 
 .textleft {
   display: inline-block;
-  width: 287px;
+  width: 327px;
   float: left;
 }
 
@@ -637,11 +637,15 @@ a:hover {
     top: 46px; 
   }
   
+  .texttopcenter3 {
+    top: 57px;
+  }  
+  
   .codesection {
     width: 550px;
     margin: 0 auto;
     display: block;
-    margin-top: 80px;
+    margin-top: 100px;
   }
   
   #layer4 {
