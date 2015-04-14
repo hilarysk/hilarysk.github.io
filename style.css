@@ -66,8 +66,12 @@ body {
   margin-top: 50px;
 }
 
-.socialbuttons:hover {
-  transform: rotate(60deg);
+.left:hover {
+  transform: rotate(40deg);
+}
+
+.right:hover {
+  transform: rotate(-40deg);
 }
 
 .textcenter2 {
@@ -635,6 +639,10 @@ a:hover {
   .videocontainer {
     margin-top: 850px;
   }
+  
+  .videotabs {
+    margin-top: 240px;
+  }
 
 }
 
@@ -645,6 +653,10 @@ a:hover {
   .videocontainer {
     margin-top: 900px;
   }
+  
+  .videotabs {
+    margin-top: 240px;
+  }
 
 }
 
@@ -654,6 +666,10 @@ a:hover {
   
   .videocontainer {
     margin-top: 940px;
+  }
+  
+  .videotabs {
+    margin-top: 240px;
   }
   
   .video iframe {
@@ -804,6 +820,10 @@ a:hover {
   
   .videocontainer {
     margin-top: 1010px;
+  }
+  
+  .videotabs {
+    margin-top: 240px;
   }
 
 
